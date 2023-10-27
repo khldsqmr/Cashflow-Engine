@@ -4,7 +4,7 @@ The Cashflow Engine is a financial forecasting tool designed to project the bala
 
 ## Step 1: Classification Algorithm
 
-### Dataset Creation:
+### Dataset:
 
 Consider a dataset with the following variables:
 
